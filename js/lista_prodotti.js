@@ -10,7 +10,7 @@ var lista_telefonia = [{
     nome: 'Samsung',
     prezzo: 300,
     categoria: 'telefonia',
-        immmagine: 'img/fotoSamsung.jpg'
+    immmagine: 'img/fotoSamsung.jpg'
 }, {
     id: 3,
     nome: 'Iphone',
