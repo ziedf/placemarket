@@ -4,19 +4,19 @@ var lista_telefonia = [{
     nome: 'Huawei',
     prezzo: 200,
     categoria: 'telefonia',
-    immmagine: ''
+    immmagine: 'img/fotoHuawei.jpg'
 }, {
     id: 2,
     nome: 'Samsung',
     prezzo: 300,
     categoria: 'telefonia',
-    immmagine: ''
+        immmagine: 'img/fotoSamsung.jpg'
 }, {
     id: 3,
     nome: 'Iphone',
     prezzo: 350,
     categoria: 'telefonia',
-    immmagine: ''
+    immmagine: 'img/fotoIphone.jpg'
 }];
 
 //lista_computer
@@ -25,18 +25,18 @@ var lista_computer = [{
     nome: 'Asus',
     prezzo: 600,
     categoria: 'computer',
-    immmagine: ''
+    immmagine: 'img/fotoAsus.jpg'
 }, {
     id: 2,
     nome: 'Samsung',
     prezzo: 700,
     categoria: 'computer',
-    immmagine: ''
+    immmagine: 'img/fotoSamsungcomputer.jpg'
 }, {
     id: 3,
     nome: 'Mac',
     prezzo: 1000,
     categoria: 'computer',
-    immmagine: ''
+    immmagine: 'img/fotoMac.jpg'
 }];
 
